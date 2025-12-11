@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\bin\Debug\Okay_Array.exe.config
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\bin\Debug\Okay_Array.exe
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\bin\Debug\Okay_Array.pdb
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\obj\Debug\Okay_Array.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\obj\Debug\Okay_Array.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\obj\Debug\Okay_Array.exe
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\obj\Debug\Okay_Array.pdb
+C:\Users\ACT-STUDENT\Desktop\Okay_Array\Okay_Array\Okay_Array\obj\Debug\Okay_Array.exe.config
