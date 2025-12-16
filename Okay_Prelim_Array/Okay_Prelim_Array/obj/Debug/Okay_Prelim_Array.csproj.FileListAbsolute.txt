@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\bin\Debug\Okay_Prelim_Array.exe.config
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\bin\Debug\Okay_Prelim_Array.exe
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\bin\Debug\Okay_Prelim_Array.pdb
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\obj\Debug\Okay_Prelim_Array.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\obj\Debug\Okay_Prelim_Array.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\obj\Debug\Okay_Prelim_Array.exe
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\obj\Debug\Okay_Prelim_Array.pdb
+C:\Users\ACT-STUDENT\Documents\Act_Okay\Okay_Prelim_Array\Okay_Prelim_Array\obj\Debug\Okay_Prelim_Array.exe.config
