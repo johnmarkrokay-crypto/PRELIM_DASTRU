@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\bin\Debug\Okay_Act4.exe.config
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\bin\Debug\Okay_Act4.exe
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\bin\Debug\Okay_Act4.pdb
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\obj\Debug\Okay_Act4.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\obj\Debug\Okay_Act4.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\obj\Debug\Okay_Act4.exe
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\obj\Debug\Okay_Act4.pdb
+C:\Users\ACT-STUDENT\source\repos\Okay_Act4\obj\Debug\Okay_Act4.exe.config
