@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\bin\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.exe.config
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\bin\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.exe
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\bin\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.pdb
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\obj\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\obj\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\obj\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.exe
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\obj\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.pdb
+C:\Users\ACT-STUDENT\source\repos\Okay_ACTIVITY 5 Customize a User-Input Method\Okay_ACTIVITY 5 Customize a User-Input Method\obj\Debug\Okay_ACTIVITY 5 Customize a User-Input Method.exe.config
