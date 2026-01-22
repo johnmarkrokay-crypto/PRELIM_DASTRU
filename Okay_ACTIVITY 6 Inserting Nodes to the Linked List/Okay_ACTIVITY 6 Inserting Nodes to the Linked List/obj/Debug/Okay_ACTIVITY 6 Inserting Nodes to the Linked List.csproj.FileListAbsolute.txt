@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\bin\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.exe.config
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\bin\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\bin\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.pdb
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\obj\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\obj\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\obj\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\obj\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.pdb
+C:\Users\ACT-STUDENT\Desktop\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\Okay_ACTIVITY 6 Inserting Nodes to the Linked List\obj\Debug\Okay_ACTIVITY 6 Inserting Nodes to the Linked List.exe.config
