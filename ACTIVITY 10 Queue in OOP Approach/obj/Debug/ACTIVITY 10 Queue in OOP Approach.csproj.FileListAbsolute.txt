@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\obj\Debug\ACTIVITY 10 Queue in OOP Approach.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\obj\Debug\ACTIVITY 10 Queue in OOP Approach.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\bin\Debug\ACTIVITY 10 Queue in OOP Approach.exe.config
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\bin\Debug\ACTIVITY 10 Queue in OOP Approach.exe
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\bin\Debug\ACTIVITY 10 Queue in OOP Approach.pdb
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\obj\Debug\ACTIVITY 10 Queue in OOP Approach.exe
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\obj\Debug\ACTIVITY 10 Queue in OOP Approach.pdb
+C:\Users\ACT-STUDENT\3D Objects\ACTIVITY 10 Queue in OOP Approach\obj\Debug\ACTIVITY 10 Queue in OOP Approach.exe.config
